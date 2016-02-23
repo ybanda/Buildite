@@ -53,19 +53,14 @@ public class ImageGallery extends HttpServlet {
 		File[] files=null;
 	try
 	{
-		System.out.println(System.getProperty("user.home") +"..."
-	+getServletContext().getRealPath("/"));
 		files = new File("D:\\SpringWorkspace\\Buildite\\WebContent\\content\\").listFiles();
 		fileList = new ArrayList<String>();
 		for(File s:files)
 		{
-			System.out.println(s.getName());
-		
+			
 			fileList.add("content/"+s.getName());
-			System.out.println(	ImageGallery.class.getResourceAsStream(s.getAbsolutePath()));
-			System.out.println(s.getPath().toString());
-			System.out.println(s.getCanonicalPath());
-			}
+			
+		}
 	}
 	catch(Throwable th)
 	{

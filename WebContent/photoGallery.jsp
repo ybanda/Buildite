@@ -7,9 +7,9 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Buildite ImageGallery</title>
-<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-<link rel="stylesheet" href="//blueimp.github.io/Gallery/css/blueimp-gallery.min.css">
-<link rel="stylesheet" href="./bootstrap-image-gallery.min.css">
+<link rel="stylesheet" href="./bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="./bootstrap/css/blueimp-gallery.min.css">
+<link rel="stylesheet" href="./bootstrap/css/bootstrap-image-gallery.min.css">
 </head>
 <body>
 
@@ -70,9 +70,9 @@
 </div>
 </div>
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="//blueimp.github.io/Gallery/js/jquery.blueimp-gallery.min.js"></script>
-<script src="./bootstrap-image-gallery.min.js"></script>
+<script src="./bootstrap/js/jquery.js"></script>
+<script src="./bootstrap/js/jquery.blueimp-gallery.min.js"></script>
+<script src="./bootstrap/js/bootstrap-image-gallery.min.js"></script>
 
 
 
