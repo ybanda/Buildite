@@ -43,17 +43,17 @@
                 <ul class="nav navbar-nav navbar-right">
                     
                     <li>
-                        <a href="events.jsp">Events</a>
+                        <a href="./Events">Events</a>
                     </li>
                     <li>
                         <a href="./ImageGallery">Photo Gallery</a>
                     
                     </li>
                     <li>
-                        <a href="about.jsp">About</a>
+                        <a href="./About">About</a>
                     </li>
                     <li>
-                        <a href="contact.jsp">Contact</a>
+                        <a href="./Contact">Contact</a>
                     </li>
                    
                         </ul>

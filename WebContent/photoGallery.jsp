@@ -23,7 +23,7 @@
                     <small>Images for the Events</small>
                 </h1>
                 <ol class="breadcrumb">
-                    <li><a href="index.jsp">Home</a>
+                    <li><a href="./Index">Home</a>
                     </li>
                     <li class="active">Image Gallery</li>
                 </ol>

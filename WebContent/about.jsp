@@ -39,7 +39,7 @@
                     <small>Organization Committee</small>
                 </h1>
                 <ol class="breadcrumb">
-                    <li><a href="index.jsp">Home</a>
+                    <li><a href="./Index">Home</a>
                     </li>
                     <li class="active">About</li>
                 </ol>
