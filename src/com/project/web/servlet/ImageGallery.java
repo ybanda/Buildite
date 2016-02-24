@@ -70,7 +70,6 @@ public class ImageGallery extends HttpServlet {
 			System.out.println(th.getMessage());
 			throw th;
 		}
-		System.out.println(fileList.size());
 		return fileList;
 	}
 

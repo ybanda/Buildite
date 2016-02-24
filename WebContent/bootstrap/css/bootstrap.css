@@ -5973,7 +5973,8 @@ button.close {
 }
 @media (min-width: 768px) {
   .modal-dialog {
-    width: 600px;
+  /*#YashwanthAdded*/ 
+    width: 768px;
     margin: 30px auto;
   }
   .modal-content {
